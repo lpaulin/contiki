@@ -5,7 +5,7 @@ HOST = '' #all interfaces
 UDP_PORT = 8802
 #UDP_IP = "2804:7f4:3b80:9440:212:4b00:d70:7"
 #UDP_IP = "2804:7f4:3b80:9440:212:4b00:797:6981"
-UDP_IP = "2804:7f4:3b80:9440:212:4b00:aff:5d06"
+UDP_IP = "2804:7f4:3b80:c6e8:212:4b00:f28:c486"
 #UDP_IP = "raspberry-6lbr.local"
 #UDP_IP = "localhost"
 

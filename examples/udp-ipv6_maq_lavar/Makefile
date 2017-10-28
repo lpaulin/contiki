@@ -1,5 +1,5 @@
 #all: udp-server udp-client udp-server-atividade4
-all: udp-server-atividade4 udp-client-atividade4 udp-server-atividadeAdvanced
+all: udp-server-atividade4 upd-ipv6_liquidificador
 
 CONTIKI = ../..
 CONTIKI_WITH_IPV6 = 1
